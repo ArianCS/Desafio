@@ -81,7 +81,7 @@ let product2 = {
     stock: 22
 }
 
-// Agregar
+// Agregar Producto
 manager.addProduct(product2)
-// Borrar
+// Borrar Producto
 manager.deleteProduct(1)

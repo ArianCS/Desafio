@@ -68,7 +68,7 @@ let product1 = {
     price: '6 U$D',
     thumbnail: 'https://d3ugyf2ht6aenh.cloudfront.net/stores/001/139/353/products/brasil-minas-gerais-natural-125-9d565470ec5a61a63616630457183584-1024-1024.webp',
     code: 12,
-    stock: 58
+    stock: 5
 }
 
 let product2 = {
@@ -77,11 +77,13 @@ let product2 = {
     description : "Honey and chocolate coffee with almonds.",
     price:  '4.85 U$S',
     thumbnail: 'https://d3ugyf2ht6aenh.cloudfront.net/stores/001/139/353/products/guatemala-2501-be672b647f69821a7916632557369450-1024-1024.webp',
-    code: 05,
-    stock: 22
+    code: 5,
+    stock: 8
 }
 
 // Agregar Producto
-manager.addProduct(product2)
+// manager.addProduct(product2)
 // Borrar Producto
-manager.deleteProduct(1)
+// manager.deleteProduct(1)
+
+export default ProductManager;

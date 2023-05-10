@@ -8,7 +8,7 @@
     "code": 12,
     "stock": 5
  },
- 
+
  {
     "id": 2,
     "title":"Coffee Guatemala Ayarza",
@@ -17,5 +17,25 @@
     "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/139/353/products/guatemala-2501-be672b647f69821a7916632557369450-1024-1024.webp",
     "code": 5,
     "stock": 8
+ },
+
+ {
+    "id": 3,
+    "title":"Coffee Colombia Nariño",
+    "description ": "Honey, orange and almonds",
+    "price":  "2.15 U$S",
+    "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/139/353/products/colombia-narino-buesaco-12511-c74a3500593140e97a16630870169595-480-0.webp",
+    "code": 1,
+    "stock": 9
+ },
+ 
+ {
+    "id": 4,
+    "title":"Coffee Kenya Maguta",
+    "description ": "Papaya, mango, apple, floral & brown sugar",
+    "price":  "7 U$S",
+    "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/139/353/products/kenya-nyeri-maguta-natural-1251-c91e70bcd7cd14e94516601538391267-480-0.webp",
+    "code": 7,
+    "stock": 3
  }
 ]
